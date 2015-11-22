@@ -4,21 +4,10 @@
 
 *.suo
 *.user
-
 .vs
 packages
 PublishScripts
 node_modules
 
-/Solution/PublishScripts
-/Solution/TestStuffWithIoC/Properties/PublishProfiles
-/Solution/TestStuffWithIoC/__TestProfilesForFilePreview__
-test.html
-
-/Solution/node_modules
-/Solution/TestStuffWithIoC/static/js/dist
-/Solution/TestStuffWithIoC/static/js/vendor
-/Solution/TestStuffWithIoC/bin
-/Solution/TestStuffWithIoC/obj
-/Solution/UnitTests/bin
-/Solution/UnitTests/obj
+/Olmo/bin
+/Olmo/obj
