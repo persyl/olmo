@@ -1,0 +1,10 @@
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\obj\Debug\Olmo.Extras.csprojResolveAssemblyReference.cache
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\bin\Debug\Olmo.Extras.dll
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\bin\Debug\Olmo.Extras.pdb
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\obj\Debug\Olmo.Extras.dll
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\obj\Debug\Olmo.Extras.pdb
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\bin\Debug\Olmo.Extras.dll
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\bin\Debug\Olmo.Extras.pdb
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\obj\Debug\Olmo.Extras.csprojResolveAssemblyReference.cache
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\obj\Debug\Olmo.Extras.dll
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\obj\Debug\Olmo.Extras.pdb

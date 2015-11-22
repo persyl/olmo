@@ -1,0 +1,8 @@
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\bin\Release\Olmo.Extras.dll
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\bin\Release\Olmo.Extras.pdb
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\obj\Release\Olmo.Extras.dll
+C:\_LokalaFiler\VsTest\Olmo\Olmo.Extras\obj\Release\Olmo.Extras.pdb
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\bin\Release\Olmo.Extras.dll
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\bin\Release\Olmo.Extras.pdb
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\obj\Release\Olmo.Extras.dll
+C:\Git_repos\VsTest\Olmo\___Olmo.Extras\obj\Release\Olmo.Extras.pdb
