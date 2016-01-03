@@ -1,2 +1,2 @@
-# olmo
+# olmo.surge.sh
 Fånigt testrepo bara
