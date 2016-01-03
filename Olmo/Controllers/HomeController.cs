@@ -7,7 +7,7 @@ namespace Olmo.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Headline = "OLMO är ett testprojekt";
+            ViewBag.Headline = "OLMO är ett testprojekt.";
             var message = "Minisetup av Grunt + jshint samt testar en fånig extension från mitt NuGet-paket:";
             ViewBag.Message = message.DoOlmo("<br /><a href=\"https://www.nuget.org/packages/Olmo.Extras/\" target=\"top\">https://www.nuget.org/packages/Olmo.Extras/</a>");
             return View();
